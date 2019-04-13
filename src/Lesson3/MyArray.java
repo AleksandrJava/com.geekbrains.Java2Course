@@ -24,6 +24,8 @@ public class MyArray {
         number2();
         additionaltask(); //ввести пароль для проверки на валидность
 
+
+
     }
 
     public static void number1() {
